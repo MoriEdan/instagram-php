@@ -21,7 +21,6 @@
             "InstagramAPI\\Tests\\": "tests/"
         }
     },
-    "minimum-stability": "stable",
     "require": {
         "php": ">=5.6",
         "lazyjsonmapper/lazyjsonmapper": "^1.6.1",
